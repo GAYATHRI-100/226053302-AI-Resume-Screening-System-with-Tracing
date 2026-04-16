@@ -1,0 +1,7 @@
+Data Scientist with 3 years experience.
+
+Skills:
+Python, Machine Learning, Deep Learning, SQL
+
+Tools:
+Pandas, NumPy, TensorFlow

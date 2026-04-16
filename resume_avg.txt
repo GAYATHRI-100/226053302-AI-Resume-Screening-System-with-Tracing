@@ -1,0 +1,7 @@
+Data Analyst with 1.5 years experience.
+
+Skills:
+Python, SQL
+
+Tools:
+Excel, Pandas
